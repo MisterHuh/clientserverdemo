@@ -1,0 +1,12 @@
+{
+  "name": "clientserverdemo",
+  "version": "1.0.0",
+  "description": "inClassPractice",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "Jae Huh",
+  "license": "ISC"
+}
